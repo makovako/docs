@@ -1,0 +1,19 @@
+---
+more:
+  - name: 🏡 Landing page
+    ref: "https://makovako.xyz"
+    # icon: "link"
+    external: true
+  - name: 📰 Blog
+    ref: "https://blog.makovako.xyz"
+    # icon: "link"
+    external: true
+  - name: 🔗 Links
+    ref: "https://links.makovako.xyz"
+    # icon: "link"
+    external: true
+  - name: "View Source"
+    ref: "https://github.com/makovako/docs"
+    external: true
+    icon: "gdoc_github"
+---

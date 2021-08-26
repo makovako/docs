@@ -1,0 +1,3 @@
+[build]
+publish = "public"
+command = "cd themes/hugo-geekdoc/ && npm install && npx gulp default && cd ../.. && hugo"

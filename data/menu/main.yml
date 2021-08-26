@@ -1,0 +1,10 @@
+---
+# This is an example menu, autocollapse doesn't work, so no plan to use it now
+main:
+  - name: Intro
+    ref: "/intro"
+    sub:
+      - name: Hello
+        ref: "/intro/hello"
+      - name: World
+        ref: "/intro/world"
