@@ -1,4 +1,4 @@
-baseURL = "http://localhost"
+baseURL = "https://docs.makovako.xyz/"
 title = "makovako doc's"
 theme = "hugo-geekdoc"
 
