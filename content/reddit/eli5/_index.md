@@ -206,3 +206,9 @@ title: ELI5
 > A neural net gets training in much the same way. You feed it a bunch of kitty and non-kitty pictures. If the net gets it right, the nodes are reinforced so they are more likely to do the same thing in similar situations. If it is wrong, they get disincentivized. Initially, its results will be near random, but if you have designed it correctly, it will get better and better as the nodes adjust. You often have neural nets that work without any human understanding exactly how. [^14]
 
 [^14]: https://www.reddit.com/r/explainlikeimfive/comments/7buzbs/eli5_what_are_neural_networks_specifically_rnns/dpl1wbq?utm_source=share&utm_medium=web2x&context=3
+
+## ELI5: What is the difference between Alzheimer's and Dementia?
+
+> Dementia is just the name give to the group of symptoms that include memory loss and loss of communication skills . Alzheimer's is one specific progressive disease of the brain that slowly causes impairment in memory and cognitive function. Alzheimer's is the most common disease that causes dementia but it's not the only one. [^15]
+
+[^15]: https://www.reddit.com/r/explainlikeimfive/comments/piw99q/eli5_what_is_the_difference_between_alzheimers/hbsii77?utm_source=share&utm_medium=web2x&context=3

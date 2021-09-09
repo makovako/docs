@@ -28,3 +28,8 @@ discussion [^3]
 
 [^3]: https://www.reddit.com/r/books/comments/7orehn/what_is_the_one_book_you_read_which_made_you/?utm_source=share&utm_medium=web2x&context=3
 
+## From someone on the other side of SciHub, the paper-writing side.
+
+opinion [^4]
+
+[^4]: https://www.reddit.com/r/DataHoarder/comments/pildjl/from_someone_on_the_other_side_of_scihub_the/?utm_source=share&utm_medium=web2x&context=3

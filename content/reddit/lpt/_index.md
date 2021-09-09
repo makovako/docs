@@ -79,3 +79,7 @@ title: "LPT"
 * LPT: When a friend is upset, ask them one simple question before saying anything else: 'Do you want to talk about it or do you want to be distracted from it?' [^19]
 
 [^19]: https://www.reddit.com/r/LifeProTips/comments/h9fucs/lpt_when_a_friend_is_upset_ask_them_one_simple/?utm_source=share&utm_medium=web2x&context=3
+
+* LPT: The more items on a restaurant menu, the less fresh the food usually is going to be. [^20]
+
+[^20]: https://www.reddit.com/r/LifeProTips/comments/pjee5b/lpt_the_more_items_on_a_restaurant_menu_the_less/
