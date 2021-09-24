@@ -119,3 +119,94 @@ source[^6]
 
 [^8]: https://www.reddit.com/r/webdev/comments/exv5kj/honeypot_an_alternate_to_captcha/fges26o?utm_source=share&utm_medium=web2x&context=3
 
+
+## Learn to Code With Data Visualizations - Interactive Python Lessons [^9]
+
+* [link to lessons](https://www.jigsawlabs.io/free#free)
+* [link to videos](https://www.youtube.com/playlist?list=PLCG6Te769p1gkVJizwSmo6GoEI9oHoAPA)
+
+[^9]: https://www.reddit.com/r/learnprogramming/comments/pmtt0r/learn_to_code_with_data_visualizations/?utm_source=share&utm_medium=web2x&context=3
+
+## I know Python basics, what next? [^10]
+
+> Articles
+>
+> - [I know how to program, but I don't know what to program](https://www.devdungeon.com/content/i-know-how-program-i-dont-know-what-program)
+> - [Things you might encounter in your programming journey](https://www.techinasia.com/talk/27-things-started-programming)
+> - [Techniques for Efficiently Learning Programming Languages](https://www.flyingmachinestudios.com/programming/learn-programming-languages-efficiently/)
+>
+> Exercises and Projects
+>
+> - [Exercism](https://exercism.org/tracks/python/exercises)
+> - [Practicepython](https://www.practicepython.org/)
+> - [Edabit](https://edabit.com/challenges/python3)
+> - [100 Page python Intro exercises](https://github.com/learnbyexample/100_page_python_intro/blob/main/exercises/Exercises.md)
+> - [Codewars](https://www.codewars.com/)
+> - [Adventofcode](https://adventofcode.com/)
+> - [Projecteuler](https://projecteuler.net/)
+> - [Checkio](https://py.checkio.org/)
+> - [Codingame](https://www.codingame.com/start)
+> - [Codecobat](https://codecombat.com/)
+> - [Practice Python Projects](https://learnbyexample.github.io/practice_python_projects/)
+> - [Projects with solutions](https://github.com/karan/Projects-Solutions)
+> - [Pytudes by Peter Norvig](https://github.com/norvig/pytudes)
+> - [What do you automate with python at home](https://www.reddit.com/r/learnpython/comments/k5k1h0/what_do_you_automate_with_python_at_home/)
+>
+> Books
+>
+> - [The bug book of small python projects](https://inventwithpython.com/bigbookpython/)
+> - [Tiny python projects](https://www.manning.com/books/tiny-python-projects)
+> - [Impractical python projects](https://nostarch.com/impracticalpythonprojects)
+> - [Real world python](https://nostarch.com/real-world-python)
+>
+> Debugging
+>
+> - [Think python](https://greenteapress.com/wp/think-python-2e/)
+> - [Pythontutor](http://www.pythontutor.com/visualize.html#mode=edit)
+> - [pdb module](https://docs.python.org/3/library/pdb.html)
+> - [Python debugging with pdb](https://realpython.com/python-debugging-pdb/)
+> - [Rubber duck debugging](https://rubberduckdebugging.com/)
+> - [What does debugging a program look like](https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/)
+> - [How to debug small programms](https://ericlippert.com/2014/03/05/how-to-debug-small-programs/)
+> - [Debugging guide](https://uchicago-cs.github.io/debugging-guide/)
+> - [Problem solving skills](https://ryanstutorials.net/problem-solving-skills/)
+> - [Curated list of absurd software bug stories](https://500mile.email/)
+>
+> Testing
+>
+> - [Getting started with testing in Python](https://realpython.com/python-testing/)
+> - [Python testing style guide](https://blog.thea.codes/my-python-testing-style-guide/)
+> - [calmcode: pytest](https://calmcode.io/pytest/introduction.html)
+> - [TDD in python with pytest](https://www.thedigitalcatonline.com/blog/2020/09/10/tdd-in-python-with-pytest-part-1/)
+> - [obeythetestinggoat](https://www.obeythetestinggoat.com/) - testing web with python
+> - [Modern Test-Driven Development in Python](https://testdriven.io/blog/modern-tdd/)
+>
+> Intermediate to Advanced Python resources
+>
+> - [Official Python Docs](https://docs.python.org/3/index.html)
+> - [Calmcode](https://calmcode.io/)
+> - [Practical python programming](https://dabeaz-course.github.io/practical-python/Notes/Contents.html)
+> - [Beyond the basic stuff with Python](https://inventwithpython.com/beyond/chapter0.html)
+> - [Fluent python](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/)
+> - [Serious python](https://nostarch.com/seriouspython)
+> - [Practices of the python pro](https://www.manning.com/books/practices-of-the-python-pro)
+>
+> Algorithms and Design Patterns
+>
+> - [Problem solving iwht algorithms and data structures](https://runestone.academy/runestone/static/pythonds/index.html)
+> - [Classic computer science problems in python](https://livebook.manning.com/book/classic-computer-science-problems-in-python/about-this-book/)
+> - [Github: Collection of design patterns and idioms](https://github.com/faif/python-patterns)
+> - [Architecture patterns with python](https://www.cosmicpython.com/book/preface.html)
+>
+> Handy cheatsheets
+>
+> - [Python Crash Course cheatsheet](https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/)
+> - [Comprehensive python cheatsheet](https://gto76.github.io/python-cheatsheet/)
+> - [Scientific python cheatsheet](https://ipgp.github.io/scientific_python_cheat_sheet/)
+> - [Common beginner errors](https://pythonforbiologists.com/29-common-beginner-errors-on-one-page/)
+>
+> More python resources
+>
+> - [Python learning resources repository](https://learnbyexample.github.io/py_resources/)
+
+[^10]: https://www.reddit.com/r/learnprogramming/comments/pndaba/i_know_python_basics_what_next/?utm_source=share&utm_medium=web2x&context=3

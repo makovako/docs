@@ -83,3 +83,19 @@ title: "LPT"
 * LPT: The more items on a restaurant menu, the less fresh the food usually is going to be. [^20]
 
 [^20]: https://www.reddit.com/r/LifeProTips/comments/pjee5b/lpt_the_more_items_on_a_restaurant_menu_the_less/
+
+* LPT: Store potatoes and onions far away from each other. When paired together, they release gases that spoil each other faster [^21]
+
+[^21]: https://www.reddit.com/r/LifeProTips/comments/pmdo9j/lpt_store_potatoes_and_onions_far_away_from_each/?utm_source=share&utm_medium=web2x&context=3
+
+* LPT: take pictures of photographers, chances are they’re usually the photographer so no one else takes pictures [^22]
+
+[^22]: https://www.reddit.com/r/LifeProTips/comments/pmm7yw/lpt_take_pictures_of_photographers_chances_are/?utm_source=share&utm_medium=web2x&context=3
+
+* LPT: Instead of trying to kill a fly by hitting it, spray it with water [^23]
+
+[^23]: https://www.reddit.com/r/LifeProTips/comments/png1lc/lpt_instead_of_trying_to_kill_a_fly_by_hitting_it/?utm_source=share&utm_medium=web2x&context=3
+
+* LPT: Don't wash leftover oil or liquid fat through the sink. Instead mix it with a bit of flour into a dry ball and throw it in the trash. [^24]
+
+[^24]: https://www.reddit.com/r/LifeProTips/comments/ppbcn8/lpt_dont_wash_leftover_oil_or_liquid_fat_through/?utm_source=share&utm_medium=web2x&context=3

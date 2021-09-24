@@ -43,3 +43,15 @@ title: Security
 source [^2]
 
 [^2]: https://www.reddit.com/r/selfhosted/comments/adzkdw/learning_to_better_secure_as_i_grow_more_privacy/edlh85t/?context=3
+
+## Intrusion detection system [^3]
+
+> - [WAZUH](https://wazuh.com/)
+> - [Snort](https://www.snort.org/)
+> - [Suricata](https://suricata.io/)
+> - [Lynis](https://cisofy.com/lynis/)
+> - [OSSIM](https://cybersecurity.att.com/products/ossim)
+> - [Security Onion](https://securityonionsolutions.com/)
+> - [logwatch](https://sourceforge.net/projects/logwatch/)
+
+[^3]: https://www.reddit.com/r/selfhosted/comments/pt3z4x/comment/hdts31w/?utm_source=share&utm_medium=web2x&context=3
