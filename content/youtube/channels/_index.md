@@ -1,5 +1,5 @@
 ---
-title: "Channels"
+title: "Channels notes"
 weight: 15
 ---
 
