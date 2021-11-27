@@ -99,3 +99,7 @@ title: "LPT"
 * LPT: Don't wash leftover oil or liquid fat through the sink. Instead mix it with a bit of flour into a dry ball and throw it in the trash. [^24]
 
 [^24]: https://www.reddit.com/r/LifeProTips/comments/ppbcn8/lpt_dont_wash_leftover_oil_or_liquid_fat_through/?utm_source=share&utm_medium=web2x&context=3
+
+* LPT: If going to dinner with someone who doesn’t know what they want to eat, play the 5-2-1 game! (you pick 5, they pick 2, you pick 1) [^25]
+
+[^25]: https://www.reddit.com/r/LifeProTips/comments/q2amsx/lpt_if_going_to_dinner_with_someone_who_doesnt/?utm_source=share&utm_medium=web2x&context=3
